@@ -1,0 +1,14 @@
+{
+  "project": "sushruta-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "7Aji8uHvjTSxeD5aZopSRFkHSJE6E2UsVC5PsT74sHop",
+  "vault_account": "EhMHe9qnjneaNcTn9J9dCr2ciXjsjsyQwNBXnLWux3hZ",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2TAGMk64ssvsAEp6HqUZREDogf5oFh7mNGfL38chbM8Si6U4cSn97AnyHyKskggQ36JvAnaUQYFH8vmgQyGXYrem",
+  "account_tx": "2ZHjRXGXCs4dybRVwa9u9f3HYABXtu3behNyGephQUv6qLa8TwuFJNSTY4HdaJXYn2vdpmG4ZBTYRwqJatm5K72Z",
+  "mint_tx": "41BwAYomxSYRYWhrmrfe9JE6gRf29TSzxLpYBq9vpKmYCcy3erS6P9yuQbftnypk2yBieoPgbjP6Dkzq2sy7Lo1v",
+  "solana_explorer_mint": "https://explorer.solana.com/address/7Aji8uHvjTSxeD5aZopSRFkHSJE6E2UsVC5PsT74sHop?cluster=devnet",
+  "timestamp": "2026-10-26 16:59:21 UTC"
+}
